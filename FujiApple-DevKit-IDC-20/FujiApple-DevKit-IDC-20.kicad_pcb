@@ -1711,10 +1711,10 @@
       (net 37 "/IO4{slash}SAFE_RESET") (pinfunction "A") (pintype "passive") (tstamp 5962fd2a-75af-4e92-9c01-d4f76e1ecd1a))
     (pad "2" smd roundrect (at 2.1 0 90) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "GND") (pinfunction "B") (pintype "passive") (tstamp f442caeb-f96d-4d16-abde-4a989d276caa))
-    (model "C:/Users/cdter/Documents/Kicad/Switch/ALPS SKRK SMD Tact 4x3mm/SKRKAE.STEP"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/cdter/Documents/Kicad/Switch/ALPS SKRK SMD Tact 4x3mm/SKRKAEE020.step"
+      (offset (xyz 0 0 0.7))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1937,10 +1937,10 @@
       (net 17 "/IO0") (pinfunction "A") (pintype "passive") (tstamp a915a425-dcf7-4c8c-8a9b-713fdb2e17c3))
     (pad "2" smd roundrect (at 2.1 0 90) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "GND") (pinfunction "B") (pintype "passive") (tstamp 080a0482-42a8-49dd-957b-e7e585f2bbb9))
-    (model "C:/Users/cdter/Documents/Kicad/Switch/ALPS SKRK SMD Tact 4x3mm/SKRKAE.STEP"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/cdter/Documents/Kicad/Switch/ALPS SKRK SMD Tact 4x3mm/SKRKAEE020.step"
+      (offset (xyz 0 0 0.7))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
