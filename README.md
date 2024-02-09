@@ -9,3 +9,7 @@ Interactive BOM - [https://djtersteegc.github.io/fujinet-appleii-hardware/ibom-D
 # DevKit SmartPort
 
 Interactive BOM - [https://djtersteegc.github.io/fujinet-appleii-hardware/ibom-DevKit-SmartPort-v1.0.html](https://djtersteegc.github.io/fujinet-appleii-hardware/ibom-DevKit-SmartPort-v1.0.html)
+
+# DevKit Combo
+
+Interactive BOM - [https://djtersteegc.github.io/fujinet-appleii-hardware/ibom-DevKit-Combo-v1.0.html](https://djtersteegc.github.io/fujinet-appleii-hardware/ibom-DevKit-Combo-v1.0.html)

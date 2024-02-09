@@ -455,7 +455,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "3D/smartportsd-smd.step",
+      "step": "3D/STEP/db19-to-idc20.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
